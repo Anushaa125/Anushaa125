@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anusha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Every time I fall in love with learning new things</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushaa125&label=Profile%20views&color=0e75b6&style=flat" alt="anushaa125" /> </p>
 
 - 🌱 I’m currently learning **React**
