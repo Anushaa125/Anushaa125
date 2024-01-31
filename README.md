@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React, Node, MongoDB**
 
-- 💬 Ask me about **Html, CSS, JS, Bootstrap **
+- 💬 Ask me about **Html, CSS, JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
